@@ -1,0 +1,16 @@
+{
+  "submitButton": "שלח",
+  "formFullName": "שם מלא",
+  "formName": "שם",
+  "formEmail": "אימייל",
+  "formPassword": "סיסמה",
+  "formMessage": "הודעה",
+  "authPage": {
+    "switchButton_signIn": "אין לך חשבון? הירשם",
+    "switchButton_signUp": "כבר יש לך חשבון? התחבר"
+  },
+  "homePage": {
+    "title": "דף הבית של לוח הבקרה למנהל",
+    "welcomeAdmin": "ברוך הבא מנהל"
+  }
+}

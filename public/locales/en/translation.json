@@ -1,0 +1,16 @@
+{
+  "submitButton": "Submit",
+  "formFullName": "Full Name",
+  "formName": "Name",
+  "formEmail": "Email",
+  "formPassword": "Password",
+  "formMessage": "Message",
+  "authPage": {
+    "switchButton_signIn": "Don't have an account? Sign Up",
+    "switchButton_signUp": "Already have an account? Sign In"
+  },
+  "homePage": {
+    "title": "Admin Panel Home",
+    "welcomeAdmin": "Welcome admin"
+  }
+}
